@@ -34,7 +34,7 @@
     @apply text-mainBg rounded flex text-center items-center justify-center p-1 outline-none
   }
   footer {
-    @apply text-surface grid grid-cols-3 lg:grid-cols-7 gap-5 place-items-start px-[40px] lg:px-[100px] bg-mainGray py-12 w-full
+    @apply text-surface grid grid-cols-3 lg:grid-cols-7 gap-5 place-items-start px-[40px] lg:px-[100px] bg-mainGray py-12 w-full h-full
   }
 }
 

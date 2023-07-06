@@ -10,7 +10,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between px-5 lg:p-24">
       <Homepage />
       <Portofolio />
-      <Team />
+      {/* <Team /> */}
       <Services />
       <About />
     </main>

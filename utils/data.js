@@ -13,14 +13,10 @@ import Dakasakti from "@/public/Dakasakti.svg";
 import AsOne from "@/public/AsOne.png";
 import Sembako from "@/public/Sembako.svg";
 import Doofit from "@/public/Doofit.png";
-import DigitalHunter from "@/public/DigitalHunter.png";
 
 import Web from "@/public/web.svg";
 import Web3 from "@/public/web3.svg";
 import Mobile from "@/public/mobile.svg";
-import Analytic from "@/public/analytic.svg";
-import AiIcon from "@/public/aiImg.svg";
-import Crypto from "@/public/crypto.jpg";
 import EtherScan from "@/public/EtherScan.png";
 
 export const nav = [
@@ -156,19 +152,19 @@ export const service = [
     title: "Mobile App Development",
     desc: "We create mobile apps that engage customers and enchange user experience.",
   },
-  {
-    image: AiIcon,
-    title: "Articial Intilegence",
-    desc: "We offer cutting-edge AI solutions that enable businesses to leverage the power of articial intilegence for intilegence decision-making",
-  },
-  {
-    image: Crypto,
-    title: "Token Crypto",
-    desc: "We offer compherensive token crypto services that empower bussinesses to leverage the potential of blockchain decision-making",
-  },
-  {
-    image: Analytic,
-    title: "Analytic Dashboard",
-    desc: "We offer visually appealing and effective analytics dashboard that helps bussinesses track and measure key performance",
-  },
+  // {
+  //   image: AiIcon,
+  //   title: "Articial Intilegence",
+  //   desc: "We offer cutting-edge AI solutions that enable businesses to leverage the power of articial intilegence for intilegence decision-making",
+  // },
+  // {
+  //   image: Crypto,
+  //   title: "Token Crypto",
+  //   desc: "We offer compherensive token crypto services that empower bussinesses to leverage the potential of blockchain decision-making",
+  // },
+  // {
+  //   image: Analytic,
+  //   title: "Analytic Dashboard",
+  //   desc: "We offer visually appealing and effective analytics dashboard that helps bussinesses track and measure key performance",
+  // },
 ];

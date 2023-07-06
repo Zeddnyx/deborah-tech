@@ -3,7 +3,6 @@ import Image from "next/image";
 export default function portofolioCard({ src, title, tech, tech2 }) {
   return (
     <div
-      data-aos="fade-top"
       className="group relative cursor-pointer items-center justify-center mx-auto overflow-hidden w-full sm:w-[400px] md:w-[650px] lg:w-[800px] xl:w-[565px] rounded-lg self-center"
     >
       <div>
